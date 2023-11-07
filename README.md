@@ -17,7 +17,7 @@
 git clone https://github.com/jhhg04/DH-Eventify.git
 
 ## Installation
-cd DH-Eventify/
+cd DH-Eventify <br/>
 npm install
 
 ## Starting the Application
